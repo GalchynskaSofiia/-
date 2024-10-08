@@ -1,0 +1,5 @@
+D:\CPP\Projects\Lab81\x64\Debug\Lab81.vcxproj.AssemblyReference.cache
+D:\CPP\Projects\Lab81\x64\Debug\Lab81.vcxproj.SuggestedBindingRedirects.cache
+D:\CPP\Projects\Lab81\x64\Debug\Lab81.MyForm.resources
+D:\CPP\Projects\Lab81\x64\Debug\Lab81.vcxproj.GenerateResource.cache
+D:\CPP\Projects\Lab81\x64\Debug\Lab81.exe
